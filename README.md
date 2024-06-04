@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/windyund/windyund/blob/output/github-contribution-grid-snake.svg"/>
-</p>	
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=windyund&show_icons=true&theme=graywhite"/>
 </p>
+
+持续参与开源贡献ing...
 
 # 联系方式
 
