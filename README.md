@@ -10,6 +10,7 @@
 
 - Tel：19801394816
 - Email：fengnian9527@hotmail.com
+- Tg: fengnian9527
 - 微信：yzzd1116
 
 # 个人信息
@@ -19,7 +20,7 @@
 - 工作年限: 6年
 - 英语等级：CET-6
 - 期望职位：Rust/Move开发工程师
-- 工作方式：远程
+- 工作方式：remote
 
 # 个人优势
 ```
