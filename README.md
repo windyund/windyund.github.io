@@ -18,21 +18,28 @@
 - 学历/专业： 本科/计算机相关专业
 - 工作年限：  6年
 - 英语等级：  CET-6
-- 期望职位：  Rust/Move开发工程师
+- 期望职位：  Move/Solidity合约开发
 - 工作方式：  remote
 
-# 个人优势
-```
-web2:
-六年Java开发经验，了解并发编程技术，熟悉多线程原理，拥有系统性能优化，数据库索引优化、Jvm调优等经验；
-同时掌握微服务架构及高可用、高并发的分布式系统架构设计；
-负责过新项目的架构搭建、技术框架选型、拥有从0到1的项目设计以及应用服务落地经验。
-掌握微服务的相关技术，缓存设计，熔断限流等。
+# 个人经验
+## web3
+1.参与Sui链开发
+- 参与Move语言学习激励计划，完成所有任务，详见[项目地址](https://github.com/windyund/letsmove)
+- 熟悉ERC20、ERC721协议
+- 了解uniswap版本协议原理和源代码，并用move实现
+- 实现无损彩票dapp应用开发设计
+- 参与完成Navi Protocol 项目方多次Dev Race
 
-web3:
-参与Sui公链开发，掌握move开发语言，熟悉coin,faucet coin铸造领取，NFT开发，liquid swap。
-熟悉zk(零知识证明)，zkLogin
-```
+2.参与Ethereum链开发
+  熟悉React框架与Solidity合约开发
+- 1.参与openbuild组织前端训练营，完成训练任务，详见[项目地址](https://github.com/windyund/Web3-Frontend-Bootcamp)
+- 待补充...
+## web2
+  六年Java开发经验，熟悉并发编程技术，熟悉多线程原理，拥有系统性能优化，数据库索引优化、JVM调优等经验；
+  同时掌握微服务架构及高可用、高并发的分布式系统架构设计；
+  负责过新项目的架构搭建、技术框架选型、拥有从0到1的项目设计以及应用服务落地经验。
+  掌握微服务的相关技术，缓存设计，熔断限流，分布式锁等。
+
 开源项目<br>
 1.[多链水龙头聚合-Sui Faucet领取](https://github.com/windyund/Sui_Faucet) <br>
 2.[Rust web开发脚手架](https://github.com/windyund/rust-web-template)<br>
@@ -65,16 +72,24 @@ features:
 - 基于RBAC（角色访问控制）管理用户权限，保证权限到按钮粒度，保证数据安全
 - 服务监控、操作日志记录，登录安全校验等基础服务设施
 
+**5.智能家居工单系统，客户派单，自动派单，语音外呼等**<br>
+  features:
+- 支持工单录入，内部客服分单，服务绩效统计
+- 自动派单功能，根据服务师傅服务好评，距离等多维数据匹配实现自动派单功能
+- 钱包功能开发，提现功能，财务对账等
+- 微信公众号、App服务端支持
+
+
 待补充...
 
 # 技能清单
 
 以下均为我熟练使用的技能
 
-- 区块链开发：熟悉Rust、Move语言开发
-- Web开发：熟练掌握Java开发，项目设计，搭建，开发、部署流程。
-- 数据分析：能使用Python编写脚本
-- 前端框架：React（currently learning）、TypeScript
+- 区块链开发：熟悉Move、Solidity语言开发，了解Rust
+- Web开发：熟练掌握Java开发，项目设计，搭建，开发流程。Web服务治理，微服务应用，高并发，高可用等架构设计使用，熟悉SpringBoot，SpringCloud相关框架。
+- 数据分析：使用Python编写脚本，数据统计分析
+- 前端框架：React、TypeScript
 - 数据库相关：MySQL/Mongodb/Redis
 
 
