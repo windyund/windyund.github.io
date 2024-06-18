@@ -40,7 +40,7 @@
   负责过新项目的架构搭建、技术框架选型、拥有从0到1的项目设计以及应用服务落地经验。
   掌握微服务的相关技术，缓存设计，熔断限流，分布式锁等。
 
-开源项目<br>
+# 开源项目<br>
 1.[多链水龙头聚合-Sui Faucet领取](https://github.com/windyund/Sui_Faucet) <br>
 2.[Rust web开发脚手架](https://github.com/windyund/rust-web-template)<br>
 待补充...
