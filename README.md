@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=windyund&show_icons=true&theme=graywhite"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyund&layout=compact&hide=html" alt="windyund" />
 </p>
+
+
 
 持续参与开源贡献ing...
 
