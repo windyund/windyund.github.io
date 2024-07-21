@@ -25,23 +25,10 @@
 - 工作方式：  remote
 
 # 个人经验
-## web3
-1.参与Sui链开发
-- 参与Move语言学习激励计划，完成所有任务，详见[项目地址](https://github.com/windyund/letsmove)
-- 熟悉ERC20、ERC721协议
-- 了解uniswap版本协议原理和源代码，并用move实现
-- 实现无损彩票dapp应用开发设计
-- 参与完成Navi Protocol 项目方多次Dev Race
-
-2.参与Ethereum链开发
-  熟悉React框架与Solidity合约开发
-- 1.参与openbuild组织前端训练营，完成训练任务，详见[项目地址](https://github.com/windyund/Web3-Frontend-Bootcamp)
-- 待补充...
-## web2
-  六年Java开发经验，熟悉并发编程技术，熟悉多线程原理，拥有系统性能优化，数据库索引优化、JVM调优等经验；
-  同时掌握微服务架构及高可用、高并发的分布式系统架构设计；
-  负责过新项目的架构搭建、技术框架选型、拥有从0到1的项目设计以及应用服务落地经验。
-  掌握微服务的相关技术，缓存设计，熔断限流，分布式锁等。
+1.熟悉Rust语言开发，参与过开源项目共建。
+2.多年Java开发经验，熟悉并发编程技术，熟悉多线程原理，拥有系统性能优化，数据库索引优化、JVM调优等经验；同时掌握微服务架构及高可用、高并发的分布式系统架构设计；负责过新项目的架构搭建、技术框架选型、拥有从0到1的项目设计以及应用服务落地经验。掌握微服务的相关技术，缓存设计，熔断限流，分布式锁等。
+3.熟练使用Python编写脚本，使用pandas做数据分析。
+4.了解React前端框架，使用和研究过Tauri。
 
 # 开源项目<br>
 1.[多链水龙头聚合-Sui Faucet领取](https://github.com/windyund/Sui_Faucet) <br>
@@ -89,9 +76,9 @@ features:
 
 以下均为我熟练使用的技能
 
-- 区块链开发：熟悉Move、Solidity语言开发，了解Rust
-- Web开发：熟练掌握Java开发，项目设计，搭建，开发流程。Web服务治理，微服务应用，高并发，高可用等架构设计使用，熟悉SpringBoot，SpringCloud相关框架。
-- 数据分析：使用Python编写脚本，数据统计分析
+- 系统开发：熟悉Rust语言开发
+- Web开发：熟练掌握Java语言，项目设计，搭建，开发流程。Web服务治理，微服务应用，高并发，高可用等架构设计使用，熟悉SpringBoot，SpringCloud相关框架。
+- 数据分析：使用Python编写脚本，利用pandas做数据统计分析
 - 前端框架：React、TypeScript
 - 数据库相关：MySQL/Mongodb/Redis
 
