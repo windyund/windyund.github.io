@@ -21,7 +21,7 @@
 - 学历/专业： 本科/计算机相关专业
 - 工作年限：  6年
 - 英语等级：  CET-6
-- 期望职位：  Move/Solidity合约开发
+- 期望职位：  Rust开发
 - 工作方式：  remote
 
 # 个人经验
@@ -50,13 +50,13 @@
 
 
 # 项目经验
-**1.基于 puppeteer封装通用PDF生成服务(Java版)** <br>
+**1.基于[puppeteer](https://github.com/puppeteer/puppeteer)封装通用PDF生成服务(Java版)** <br>
 features:
 - 支持矢量模式与分页截图方式
 - 支持http与消息回调通知方式
 - 服务上线稳定，并行高效，生成PDF高质量
 
-**2.参考 dataease 定制开发数据分析BI平台，快速产出看板，报告需求**<br>
+**2.参考 [dataease](https://github.com/dataease/dataease) 定制开发数据分析BI平台，快速产出看板，报告需求**<br>
   features:
 - 数据计算存储在Doris中，存算分离，数据从清洗ods->dwd-> dws-> ads 流程，支持实时聚合分析，延迟低
 - 看板组件化，可灵活配置，动态文本，用户上手简单
